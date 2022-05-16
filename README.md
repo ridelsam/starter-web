@@ -2,6 +2,7 @@
 
 This is a simple website project for showing
 how to use git and github together. Adding more text to practice rebasing.
+Adding more line for more feature branch
 
 ## Introduction
 
