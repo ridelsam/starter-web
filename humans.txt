@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ridel Samonte   ridel.asam@gmail.com    @ridelsam
 
 # THANKS
 
